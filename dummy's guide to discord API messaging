@@ -1,4 +1,56 @@
 #To whoever that reads this! I promise to make this as instructive as possible and if I can do it, so can you!
+Discord's built in Webhooks function as an easy way to get automated messages and data updates sent to a text channel in your server.
 
-<h1> How do we get there<h1>
+#So what is a webhook? 😅
+If you're asking this question. You're a better student than I am. Simply put, a webhook is a Push API. 
+It is a way for an app to provide other applications with real time information. But seriously, I won't bore you 
+with more text. If you're a way better student than I am, please read up the following
+
+https://sendgrid.com/blog/whats-webhook/
+
+#So what is Discord? 🥲
+Ok, if you're asking this...you're probably as old if not older than I. That don't matter...I've no idea what's 
+UiPath before June of 2021 too. So yes... Discord is a VoIP, instant messaging and digital distribution platform 
+designed for everyday people. Users communicate with voice calls, video calls, text messaging, media and files in private chats 
+or as part of communities called "servers".  Usually for gamers and for technophiles, Discord isn't as popular as Whatsapp, Telegram or 
+Facebook. So I won't really blame you if you didn't hear of them!
+
+
+#So how do we get there? 🤔
 In order to first get this started, you'll have to install Discord on your laptop. 
+https://discord.com 
+Download discord onto your laptop. 
+
+*insert image 1
+
+
+Once you've launched Discord, play around with the interface! I mean seriously!!! You don't expect to be spoon
+fed every step of the way do you?
+
+#So...I know you know that I saw you rolling your eyes when you read the above statement. 🙄
+Ok so you need to be spoon fed every step of the way. 
+
+Click on the big PLUS + sign you see on the Discord interface just below the Ds symbol
+
+*insert image 2
+
+Add a server and then click on the drop down menu
+
+*insert image 3
+
+Once you are there, click on the Integration tab
+
+*insert image 4
+
+Click the "Create Webhook" button to create a new webhook!
+You'll have a few options here. You can:
+
+Edit the avatar: By clicking the avatar next to the Name in the top left
+Choose what channel the Webhook posts to: By selecting the desired text channel in the  dropdown menu.
+It's important to name your Webhook! You may create multiple webhooks subsequently for other services in future.
+
+*insert image 5
+
+Once you are done, click on Copy Webhook URL
+
+*insert image 6
