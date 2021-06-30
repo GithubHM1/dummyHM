@@ -7,3 +7,5 @@ Found an option to try out Discord API vid webhook functionality. So here I am t
 Found something and fingers cross on 30th of June 2021
 
 HEY Dummy! It works!!!! But I'm not sure if this qualifies as an API?  What do you think Uli?
+
+To follow the steps on what I've tried, please read the dummy's guide. 
