@@ -21,7 +21,7 @@ In order to first get this started, you'll have to install Discord on your lapto
 https://discord.com 
 Download discord onto your laptop. 
 
-*insert image 1
+![image](https://user-images.githubusercontent.com/84888095/123969514-e0ade700-d9ea-11eb-8244-b5c920586b43.png)
 
 
 Once you've launched Discord, play around with the interface! I mean seriously!!! You don't expect to be spoon
@@ -32,15 +32,15 @@ Ok so you need to be spoon fed every step of the way.
 
 Click on the big PLUS + sign you see on the Discord interface just below the Ds symbol
 
-*insert image 2
+![image](https://user-images.githubusercontent.com/84888095/123969291-aa706780-d9ea-11eb-9f76-991f5a32c2b0.png)
 
 Add a server and then click on the drop down menu
 
-*insert image 3
+![image](https://user-images.githubusercontent.com/84888095/123969323-b2300c00-d9ea-11eb-969b-bb668d69580c.png)
 
 Once you are there, click on the Integration tab
 
-*insert image 4
+![image](https://user-images.githubusercontent.com/84888095/123969555-ec99a900-d9ea-11eb-8a57-548307690691.png)
 
 Click the "Create Webhook" button to create a new webhook!
 You'll have a few options here. You can:
@@ -48,9 +48,9 @@ You'll have a few options here. You can:
 Edit the avatar: By clicking the avatar next to the Name in the top left
 Choose what channel the Webhook posts to: By selecting the desired text channel in the  dropdown menu.
 It's important to name your Webhook! You may create multiple webhooks subsequently for other services in future.
-
-*insert image 5
-
 Once you are done, click on Copy Webhook URL
 
-*insert image 6
+![image](https://user-images.githubusercontent.com/84888095/123969604-f4f1e400-d9ea-11eb-9dc4-d35e968efefe.png)
+
+
+
