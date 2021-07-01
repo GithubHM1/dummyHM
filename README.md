@@ -11,6 +11,8 @@ HEY Dummy! It works!!!! But I'm not sure if this qualifies as an API?  What do y
 https://github.com/GithubHM1/dummyHM/wiki/Dummy's-guide-Wiki-version
 
 PS: If the link gets you a 404 for some reason of the other. Look for my ID: GithubHM1 Repository: dummyHM Wiki tab for the full write up
+PSS: I didn't know I could get images to work in the README.md file So this is the complete write up! Yeah
+
 
 # Welcome to the dummyHM wiki Guide to Discord Webhook!
 
