@@ -11,3 +11,7 @@ To follow the steps on what I've tried, please read the dummy's guide.
 https://github.com/GithubHM1/dummyHM.wiki.git
 
 PS: If the link gets you a 404 for some reason of the other. Look for my ID: GithubHM1 Repository: dummyHM Wiki tab for the full write up
+
+
+# update on 1st July 2021
+Seems the notification isn't sent for updates done to Wiki links? More tests...
